@@ -2,7 +2,7 @@
 
 ### Python:
 My version: 3.9.2  
-I don't now how it's performs with other Python version.
+I don't know how it performs with other Python version.
 
 ### Take Picture with OpenCV:
 $ pip install opencv-python
