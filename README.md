@@ -1,6 +1,3 @@
-! [Satelite image](https://storage.googleapis.com/kaggle-competitions/kaggle/13333/logos/header.png?t=2019-06-07-19-02-58)  
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/13333/logos/header.png?t=2019-06-07-19-02-58" alt="Markdown Monster icon">
-
 # Requirements
 
 ### Python:
