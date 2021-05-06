@@ -19,7 +19,9 @@ $ pip install numpy
 
 # Usage
 ### Take Picture with OpenCV:
-$ python main.py  
+```
+$ python main.py
+```  
 When you take a photo, it is saved in the same folder where the Python file is located.
 
 ### Detect Clouds with OpenCV:
