@@ -1,6 +1,7 @@
 # Requirements
 
-### Python 3.9.2  
+### Python:
+My version: 3.9.2  
 I don't now how it's performs with other Python version.
 
 ### Take Picture with OpenCV:
