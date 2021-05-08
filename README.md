@@ -35,4 +35,4 @@ $ python main.py --image pic1.jpg
 # Social:
 [Twitter](https://twitter.com/420johann)  
 [GitHub](https://github.com/JohannLULW/)  
-[Discord](https://discord.gg/zhdbzgTD)
+[Discord](https://discord.gg/zhdbzgTD) 
