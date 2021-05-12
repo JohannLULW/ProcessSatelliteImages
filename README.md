@@ -17,6 +17,17 @@ $ pip install opencv-python
 $ pip install numpy
 ```
 
+### Create a Graph with OpenCV
+```
+$ pip install opencv-python
+```
+```
+$ pip install matplotlib
+```
+```
+$ pip install numpy
+```
+
 # Usage
 ### Take Picture with OpenCV:
 ```
@@ -32,6 +43,16 @@ example:
 ```
 $ python main.py --image pic1.jpg
 ```
+
+### Create a Graph with OpenCV
+```
+$ python main.py --image [image]
+```  
+example:  
+```
+$ python main.py --image pic1.jpg
+```
+
 # Social:
 [Twitter](https://twitter.com/420johann)  
 [GitHub](https://github.com/JohannLULW/)  
