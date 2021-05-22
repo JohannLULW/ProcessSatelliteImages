@@ -57,3 +57,4 @@ $ python main.py --image pic1.jpg
 [Twitter](https://twitter.com/420johann)  
 [GitHub](https://github.com/JohannLULW/)  
 [Discord](https://discord.gg/uNE3UrE5) 
+[Petersell.dev](https://petersell.dev)
